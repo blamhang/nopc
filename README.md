@@ -1,5 +1,5 @@
 # nopc
-NOPC, the Nessus-based offline UNIX patch checker.
+NOPC, the Nessus-based offline UNIX patch checker. Note: This is not an actively maintained script.
 
 ## Prerequisites
 To run the nopc.sh script, the script needs to be on system that contains both the nasl command and plugins from nessus.
